@@ -1,0 +1,25 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Flutter
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.dart-tool/
+**/.packages
+**/pubspec.lock
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+
+# Node (Backend)
+**/node_modules/
+**/dist/
+**/.env
+**/database.sqlite
+**/serviceAccountKey.json
+
+# Local artifacts
+.antigravity/
+.gemini/
